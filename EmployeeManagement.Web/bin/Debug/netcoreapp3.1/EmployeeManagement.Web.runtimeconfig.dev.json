@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nenadk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nenadk\\.nuget\\packages"
+    ]
+  }
+}

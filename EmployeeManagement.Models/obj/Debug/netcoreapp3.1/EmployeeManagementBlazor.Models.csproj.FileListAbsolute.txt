@@ -1,0 +1,8 @@
+C:\Projects\EmployeeManagement\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.deps.json
+C:\Projects\EmployeeManagement\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.dll
+C:\Projects\EmployeeManagement\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.pdb
+C:\Projects\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.csproj.CoreCompileInputs.cache
+C:\Projects\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.AssemblyInfoInputs.cache
+C:\Projects\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.AssemblyInfo.cs
+C:\Projects\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.dll
+C:\Projects\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.pdb
