@@ -51,8 +51,11 @@ C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\Mi
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Web.csproj.CoreCompileInputs.cache
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\EmployeeManagementBlazor.Web.dll
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeList.razor.g.cs
@@ -60,4 +63,3 @@ C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Ra
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
-C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll

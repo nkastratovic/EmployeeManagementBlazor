@@ -6,4 +6,3 @@ C:\Projects\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp3.1
 C:\Projects\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.dll
 C:\Projects\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.pdb
 C:\Projects\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.csproj.CoreCompileInputs.cache
-C:\Projects\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagementBlazor.Models.csprojAssemblyReference.cache

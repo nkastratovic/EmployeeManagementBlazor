@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CxjuUpexsU23RW71AmOxTg8EJhH48mHyX/4QgEIxvJm+seZuug6xp9RNczgZ1YzR8uVQCksNLNR/orn+lG0y/g==",
+  "dgSpecHash": "QuhRMVukotwvUTp9AvElBaUufa1xLmfpksGcp8fxNL8/9MDc/5c1ESS5p9SjRMAvetaH8l6tX05nATc5HxRIug==",
   "success": true,
   "projectFilePath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Web\\EmployeeManagementBlazor.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nenadk\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
     "C:\\Users\\nenadk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\nenadk\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0-preview.2.20159.4\\microsoft.entityframeworkcore.5.0.0-preview.2.20159.4.nupkg.sha512",
     "C:\\Users\\nenadk\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0-preview.2.20159.4\\microsoft.entityframeworkcore.abstractions.5.0.0-preview.2.20159.4.nupkg.sha512",
@@ -23,7 +24,8 @@
     "C:\\Users\\nenadk\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.2\\microsoft.extensions.primitives.3.1.2.nupkg.sha512",
     "C:\\Users\\nenadk\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
     "C:\\Users\\nenadk\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.2.20160.6\\system.componentmodel.annotations.5.0.0-preview.2.20160.6.nupkg.sha512",
-    "C:\\Users\\nenadk\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512"
+    "C:\\Users\\nenadk\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "C:\\Users\\nenadk\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
