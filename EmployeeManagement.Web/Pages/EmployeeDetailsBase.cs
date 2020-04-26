@@ -1,6 +1,5 @@
 ﻿using EmployeeManagement.Models;
 using EmployeeManagement.Web.Service;
-using EmployeeManagement.Web.Services;
 using Microsoft.AspNetCore.Components;
 using System.Threading.Tasks;
 
@@ -18,7 +17,7 @@ namespace EmployeeManagement.Web.Pages
 
         protected async override Task OnInitializedAsync()
         {
-            Id = Id ?? "1";
+            Id ??= "1";
             Employee = await EmployeeService.GetEmployee(int.Parse(Id));
         }
     }
