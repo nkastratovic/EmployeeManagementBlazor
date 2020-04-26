@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QuhRMVukotwvUTp9AvElBaUufa1xLmfpksGcp8fxNL8/9MDc/5c1ESS5p9SjRMAvetaH8l6tX05nATc5HxRIug==",
+  "dgSpecHash": "vE4tVbK9L9LNWKkfpa/cMlV+RkES3xyKWXTLJuuS4rCJWyOyocX8Hxe+hsn7N8IqqxamYGgpOfqAeQVpRqkS2Q==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Web\\EmployeeManagementBlazor.Web.csproj",
+  "projectFilePath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nenadk\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
     "C:\\Users\\nenadk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

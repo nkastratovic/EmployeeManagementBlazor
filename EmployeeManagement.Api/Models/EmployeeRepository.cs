@@ -1,5 +1,5 @@
 ﻿using EmployeeManagement.Models;
-using EmployeeManagementBlazor.Api.Models;
+using EmployeeManagement.Api.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;

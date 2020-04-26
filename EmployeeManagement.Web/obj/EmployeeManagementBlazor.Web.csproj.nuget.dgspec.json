@@ -4,12 +4,12 @@
     "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Web\\EmployeeManagementBlazor.Web.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagementBlazor.Models.csproj": {
+    "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagementBlazor.Models.csproj",
-        "projectName": "EmployeeManagementBlazor.Models",
-        "projectPath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagementBlazor.Models.csproj",
+        "projectUniqueName": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+        "projectName": "EmployeeManagement.Models",
+        "projectPath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
         "packagesPath": "C:\\Users\\nenadk\\.nuget\\packages\\",
         "outputPath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\obj\\",
         "projectStyle": "PackageReference",
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagementBlazor.Models.csproj": {
-                "projectPath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagementBlazor.Models.csproj"
+              "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
+                "projectPath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
               }
             }
           }

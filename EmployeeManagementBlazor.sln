@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementBlazor.Models", "EmployeeManagement.Models\EmployeeManagementBlazor.Models.csproj", "{68800D08-C2E1-4827-BBAA-D46975397CCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Models", "EmployeeManagement.Models\EmployeeManagement.Models.csproj", "{68800D08-C2E1-4827-BBAA-D46975397CCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementBlazor.Web", "EmployeeManagement.Web\EmployeeManagementBlazor.Web.csproj", "{96C509CF-DAC0-4816-B8CE-99044690C341}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Web", "EmployeeManagement.Web\EmployeeManagement.Web.csproj", "{96C509CF-DAC0-4816-B8CE-99044690C341}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementBlazor.Api", "EmployeeManagement.Api\EmployeeManagementBlazor.Api.csproj", "{53AE2C81-8772-41D0-8C91-C8600B1FA206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Api", "EmployeeManagement.Api\EmployeeManagement.Api.csproj", "{53AE2C81-8772-41D0-8C91-C8600B1FA206}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

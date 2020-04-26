@@ -1,11 +1,11 @@
 ﻿using EmployeeManagement.Models;
-using EmployeeManagementBlazor.Web.Service;
+using EmployeeManagement.Web.Service;
 using Microsoft.AspNetCore.Components;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EmployeeManagementBlazor.Web.Pages
+namespace EmployeeManagement.Web.Pages
 {
     public class EmployeeListBase : ComponentBase
     {

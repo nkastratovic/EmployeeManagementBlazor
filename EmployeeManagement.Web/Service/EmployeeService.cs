@@ -1,5 +1,5 @@
 ﻿using EmployeeManagement.Models;
-using EmployeeManagementBlazor.Web.Service;
+using EmployeeManagement.Web.Service;
 using Microsoft.AspNetCore.Components;
 using System.Collections.Generic;
 using System.Net.Http;

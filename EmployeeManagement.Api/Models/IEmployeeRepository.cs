@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace EmployeeManagementBlazor.Api.Models
+namespace EmployeeManagement.Api.Models
 {
     public interface IEmployeeRepository
     {

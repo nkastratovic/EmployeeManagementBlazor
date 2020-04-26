@@ -1,5 +1,4 @@
 using EmployeeManagement.Api.Models;
-using EmployeeManagementBlazor.Api.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;

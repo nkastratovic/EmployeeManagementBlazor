@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nfASPWvhAixWDsPzQQ7gQanyGWxmP+NZoCZZKXrA7/JsKKGpNitUoTHeMdTT0P59U3uG9rBeDUd+sRO6Bx8vPw==",
+  "dgSpecHash": "cFmYh0DnOacUJ1oBW30zek1AsHW+NnYPd8obfWAKmf1jLm9EimoWtYd/NfffOaSNhcm8bj2tpqjVRUK0cUbImw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagementBlazor.Models.csproj",
+  "projectFilePath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nenadk\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.2.20160.6\\system.componentmodel.annotations.5.0.0-preview.2.20160.6.nupkg.sha512"
   ],

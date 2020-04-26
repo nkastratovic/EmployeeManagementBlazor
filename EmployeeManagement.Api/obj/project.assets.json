@@ -1476,17 +1476,17 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "EmployeeManagementBlazor.Models/1.0.0": {
+      "EmployeeManagement.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "System.ComponentModel.Annotations": "5.0.0-preview.2.20160.6"
         },
         "compile": {
-          "bin/placeholder/EmployeeManagementBlazor.Models.dll": {}
+          "bin/placeholder/EmployeeManagement.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/EmployeeManagementBlazor.Models.dll": {}
+          "bin/placeholder/EmployeeManagement.Models.dll": {}
         }
       }
     }
@@ -5649,15 +5649,15 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "EmployeeManagementBlazor.Models/1.0.0": {
+    "EmployeeManagement.Models/1.0.0": {
       "type": "project",
-      "path": "../EmployeeManagement.Models/EmployeeManagementBlazor.Models.csproj",
-      "msbuildProject": "../EmployeeManagement.Models/EmployeeManagementBlazor.Models.csproj"
+      "path": "../EmployeeManagement.Models/EmployeeManagement.Models.csproj",
+      "msbuildProject": "../EmployeeManagement.Models/EmployeeManagement.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "EmployeeManagementBlazor.Models >= 1.0.0",
+      "EmployeeManagement.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0-preview.2.20159.4",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.0-preview.2.20159.4"
     ]
@@ -5668,9 +5668,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Api\\EmployeeManagementBlazor.Api.csproj",
-      "projectName": "EmployeeManagementBlazor.Api",
-      "projectPath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Api\\EmployeeManagementBlazor.Api.csproj",
+      "projectUniqueName": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Api\\EmployeeManagement.Api.csproj",
+      "projectName": "EmployeeManagement.Api",
+      "projectPath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Api\\EmployeeManagement.Api.csproj",
       "packagesPath": "C:\\Users\\nenadk\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
@@ -5688,8 +5688,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagementBlazor.Models.csproj": {
-              "projectPath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagementBlazor.Models.csproj"
+            "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
+              "projectPath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
             }
           }
         }

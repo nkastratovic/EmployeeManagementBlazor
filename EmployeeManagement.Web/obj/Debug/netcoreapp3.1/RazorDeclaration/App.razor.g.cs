@@ -5,7 +5,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace EmployeeManagementBlazor.Web
+namespace EmployeeManagement.Web
 {
     #line hidden
     using System;
@@ -64,14 +64,14 @@ using Microsoft.JSInterop;
 #nullable disable
 #nullable restore
 #line 8 "C:\Projects\EmployeeManagement\EmployeeManagement.Web\_Imports.razor"
-using EmployeeManagementBlazor.Web;
+using EmployeeManagement.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 9 "C:\Projects\EmployeeManagement\EmployeeManagement.Web\_Imports.razor"
-using EmployeeManagementBlazor.Web.Shared;
+using EmployeeManagement.Web.Shared;
 
 #line default
 #line hidden

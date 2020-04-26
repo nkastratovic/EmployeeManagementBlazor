@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dv18Z4vzdW3BSPTiELDEyM6wwEKYkCLJBwEv0KvZ1oBzF7SRxIiX/GM99YnuAIffRHhqYqeJh3b7h4koKYISeg==",
+  "dgSpecHash": "VxsFWGK+3+ABL4Llo8YDpjdhcK44kwVOuyFftFyFvo7jkFAhxFsr/t4EUN5JH7t1ACCFAEXnk64rm2Q6m1+6hQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Api\\EmployeeManagementBlazor.Api.csproj",
+  "projectFilePath": "C:\\Projects\\EmployeeManagement\\EmployeeManagement.Api\\EmployeeManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nenadk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\nenadk\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.0-preview1.20021.1\\microsoft.data.sqlclient.2.0.0-preview1.20021.1.nupkg.sha512",

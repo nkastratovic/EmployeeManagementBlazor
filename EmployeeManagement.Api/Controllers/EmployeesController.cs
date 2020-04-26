@@ -1,5 +1,5 @@
-﻿using EmployeeManagement.Models;
-using EmployeeManagementBlazor.Api.Models;
+﻿using EmployeeManagement.Api.Models;
+using EmployeeManagement.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;

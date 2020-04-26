@@ -1,5 +1,5 @@
 using EmployeeManagement.Web.Services;
-using EmployeeManagementBlazor.Web.Service;
+using EmployeeManagement.Web.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
 
-namespace EmployeeManagementBlazor.Web
+namespace EmployeeManagement.Web
 {
     public class Startup
     {
