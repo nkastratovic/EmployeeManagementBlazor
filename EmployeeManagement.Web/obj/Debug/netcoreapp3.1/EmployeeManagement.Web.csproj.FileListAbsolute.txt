@@ -63,3 +63,5 @@ C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\Mi
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeDetails.razor.g.cs
+C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeDetails.razor.g.cs
