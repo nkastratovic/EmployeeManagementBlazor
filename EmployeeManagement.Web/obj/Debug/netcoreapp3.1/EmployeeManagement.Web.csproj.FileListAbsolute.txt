@@ -69,3 +69,5 @@ C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Ra
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\DataBindingDemo.razor.g.cs
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\DisplayEmployee.razor.g.cs
 C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\DisplayEmployee.razor.g.cs
+C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditEmployee.razor.g.cs
+C:\Projects\EmployeeManagement\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\EditEmployee.razor.g.cs
